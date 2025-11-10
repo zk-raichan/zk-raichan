@@ -149,8 +149,7 @@ netlify deploy
 
 Need help? Reach out:
 - Documentation: https://docs.rai-chan.com
-- Discord: https://discord.gg/raichan
-- Twitter: [@RaichanProtocol](https://twitter.com/RaichanProtocol)
+- Website: https://rai-chan.com
 
 ## License
 

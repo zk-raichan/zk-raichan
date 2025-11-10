@@ -193,8 +193,6 @@ MIT License - see [LICENSE](./LICENSE) for details
 
 - Website: [https://rai-chan.com](https://rai-chan.com)
 - Documentation: [https://docs.rai-chan.com](https://docs.rai-chan.com)
-- Twitter: [@RaichanProtocol](https://twitter.com/RaichanProtocol)
-- Discord: [discord.gg/raichan](https://discord.gg/raichan)
 
 * * *
 
