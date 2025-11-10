@@ -1,10 +1,21 @@
 # ZK-RAICHAN — Privacy Protocol for Solana
 
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-rai--chan.com-7B3FF2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rai-chan.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@zk__raichan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zk_raichan)
+[![Telegram](https://img.shields.io/badge/Telegram-@zk__raichan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zk_raichan)
+[![Solana](https://img.shields.io/badge/Solana-Blockchain-14F195?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
+
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](./LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+</div>
+
 ### _Building privacy-first infrastructure on Solana blockchain._
 
 ZK-RAICHAN leverages **zero-knowledge proofs** to enable **private transactions** on Solana, bringing **complete anonymity** to DeFi, payments, and token operations.
-
-Official Website: [https://rai-chan.com](https://rai-chan.com)
 
 * * *
 
@@ -191,8 +202,10 @@ MIT License - see [LICENSE](./LICENSE) for details
 
 ## Links
 
-- Website: [https://rai-chan.com](https://rai-chan.com)
-- Documentation: [https://docs.rai-chan.com](https://docs.rai-chan.com)
+- 🌐 Website: [https://rai-chan.com](https://rai-chan.com)
+- 📚 Documentation: [https://docs.rai-chan.com](https://docs.rai-chan.com)
+- 🐦 Twitter: [@zk_raichan](https://twitter.com/zk_raichan)
+- 💬 Telegram: [@zk_raichan](https://t.me/zk_raichan)
 
 * * *
 
