@@ -207,6 +207,8 @@ MIT License - see [LICENSE](./LICENSE) for details
 - 🐦 Twitter: [@zk_raichan](https://twitter.com/zk_raichan)
 - 💬 Telegram: [@zk_raichan](https://t.me/zk_raichan)
 
+**📖 Full Documentation available at: [docs.rai-chan.com](https://docs.rai-chan.com)**
+
 * * *
 
 > "Privacy is not something that we should trade for anything."
